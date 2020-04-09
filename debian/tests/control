@@ -1,0 +1,6 @@
+Test-Command: vlock -h
+Restrictions: allow-stderr
+
+Test-Command: vlock -v
+Restrictions: allow-stderr
+
